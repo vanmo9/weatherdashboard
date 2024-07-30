@@ -18,9 +18,13 @@ A simple and intuitive web application that provides current weather information
 
 ## Features
 🌍 Global City Search: Get weather updates for any city around the globe.
+
 🌡️ Current Weather Conditions: Displays temperature, weather description, humidity, and wind speed.
+
 🌦️ Weather Icons: Shows weather-specific icons for clear, cloudy, rainy, snowy, and other conditions.
+
 🔄 Real-time Updates: Fetches the latest weather data from the OpenWeatherMap API.
+
 🎨 Responsive Design: Optimized for both desktop and mobile users.
 
 ## Technologies Used
