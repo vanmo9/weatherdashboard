@@ -57,10 +57,6 @@ A simple and intuitive web application that provides current weather information
 
 
 ## Usage
-Enter a city name in the input field and click the search button.
-The application will display the current weather conditions for the specified city.
-
-## BDD  
  
 | BEHAVIOUR | OUTPUT|
 |:------------------|:-----------|
