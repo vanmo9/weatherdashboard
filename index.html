@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="new.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Weather Dashboard</h1>
+      <div class="search-bar">
+        <i class="bx bx-map"></i>
+        <input type="text" id="cityInput" placeholder="Enter location" />
+        <button id="searchButton" class="bx bx-search"></button>
+      </div>
+
+      <div id="weatherData" class="weather-data"></div>
+
+      <div class="not-found">
+        <div class="box">
+          <img src="images/not_found.png" />
+        </div>
+      </div>
+      <script src="scripts.js"></script>
+    </div>
+  </body>
+</html>
