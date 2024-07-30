@@ -18,7 +18,7 @@ body {
 .container {
   position: relative;
   width: 440px;
-  height: 200px;
+  height: 700px;
   background-color: #1701972a;
   backdrop-filter: blur(20px);
   border: 2px solid #ffffff92;
