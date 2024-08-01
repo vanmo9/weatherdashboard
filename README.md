@@ -69,5 +69,5 @@ A simple and intuitive web application that provides current weather information
 * Email (vanmowha@gmail.com)
 
 
-## License
+## License ([MIT License](https://github.com/vanmo9/weatherdashboard/blob/main/LICENSE))
 This project is licensed under the MIT License - see the LICENSE file for details.
