@@ -29,10 +29,11 @@ A simple and intuitive web application that provides current weather information
 
 ## Technologies Used
 
-* Git
-* HTML and CSS for structure and styling
-* JavaScript for dynamic content and API integration
-* OpenWeatherMap API for real-time weather data
+* Git.
+* HTML for structure.
+* CSS for styling.
+* JavaScript for dynamic content and API integration.
+* OpenWeatherMap API for real-time weather data.
 
 
 ## Project setup  installation
