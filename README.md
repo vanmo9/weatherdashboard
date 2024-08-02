@@ -11,7 +11,7 @@ A simple and intuitive web application that provides current weather information
 *   Irakoze Ange Taina
 *   Alma Mwangi
 *   Jeanette Ndunge
-*   David Achayo
+*   David Achayo 
 
 
 
